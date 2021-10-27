@@ -10,6 +10,6 @@
   "author": "Tony Grimes",
   "license": "ISC",
   "dependencies": {
-    "ascii-art": "^2.8.5"
+    "lodash": "^4.17.21"
   }
 }
